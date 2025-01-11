@@ -1,0 +1,1 @@
+This repository contains examples of uncommon errors that can occur in Python programming.  The examples highlight issues that are subtle and may not be immediately apparent to less experienced programmers.  Each example includes a description of the error and a suggested solution.  The goal is to improve understanding of how to write robust and reliable Python code.
